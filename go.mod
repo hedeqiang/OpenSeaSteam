@@ -1,4 +1,4 @@
-module github.com/hedeqiang/opensea
+module github.com/hedeqiang/opensea-stream-sdk-go
 
 go 1.20
 
