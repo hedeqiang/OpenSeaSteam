@@ -1,4 +1,4 @@
-module github.com/hedeqiang/stream
+module github.com/hedeqiang/opensea
 
 go 1.20
 
