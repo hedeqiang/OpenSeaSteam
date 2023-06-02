@@ -103,7 +103,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/your-username/opensea"
+	"github.com/hedeqiang/opensea-stream-sdk-go"
 )
 
 func main() {
